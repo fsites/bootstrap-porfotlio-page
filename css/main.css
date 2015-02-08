@@ -193,7 +193,18 @@ footer {
 }
 
 
+/*MEDIA QUERIES*/
 
+@media only screen and (max-width: 450px) {
+	.masthead-name {
+	font-size: 3.5em;
+	margin-top: 15px;
+}
+.masthead-title {
+	font-size: 1.5em;
+	margin-top: -30px;
+}
+}
 
 
 
