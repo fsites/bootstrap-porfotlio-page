@@ -48,15 +48,23 @@ a:hover {
 	cursor: pointer;
 }
 
+.phone {
+	color: black;
+}
 
 .phone:hover {
 	text-decoration: none;
 	color: #C0362C;
+	padding: 2px;
 }
 
 .social-links:hover {
 	border: 5px #C0362C solid;
 }
 
+.links-div {
+	padding: 30px;
+	border-bottom: 3px #C0362C solid;
+}
 
 
